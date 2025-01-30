@@ -10,13 +10,6 @@
 -------
 
 
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
-
 # 📖 Do Caderno ao Tablet – Como a Tecnologia Está Transformando a Educação
 
 

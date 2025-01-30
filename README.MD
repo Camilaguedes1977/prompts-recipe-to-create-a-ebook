@@ -22,7 +22,7 @@ Este eBook foi criado para apresentar, de forma acessível e dinâmica, como a t
 ✔️ Os prompts utilizados para gerar textos com ChatGPT ✍️
 ✔️ O prompt criado para gerar a ilustração de capa com Ideogram.ai 🎨
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Camilaguedes1977/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20Do%20Caderno%20ao%20Tablet.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ##📜 Sobre o eBook
 A tecnologia chegou às salas de aula e trouxe com ela um grande desafio: como equilibrar aprendizado e engajamento sem perder o foco? Este eBook explora:
